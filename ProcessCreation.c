@@ -1,5 +1,4 @@
 //Benjamin Mouer
-//CSC 241
 //Tuesday October 2nd
 
 #include <unistd.h>
@@ -7,7 +6,7 @@
 #include <stdio.h>
 
 /*This is a const char pointer to an immutable string. this ensures that my file name wont be altered somehow while my processes executes*/
-const char * inputFile = "lab2.txt";
+const char * inputFile = "test.txt";
 
 
 int main() {
